@@ -58,7 +58,7 @@ Icons	Lucide React
 Design Style	Soft UI, white theme, purple accent
 ⚙️ Installation
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/profile-dashboard-ui.git
+git clone https://github.com/Aparna2320/user-profiles-frontend.git
 
 # 2️⃣ Enter the folder
 cd profile-dashboard-ui
